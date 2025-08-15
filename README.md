@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Le+Van+Dat;Software+Engineer;Full-stack+Developer;AI%2FNLP+Learner" />
 </h1>
 
-<h3 align="center">CS junior @ Ho Chi Minh City Open University (GPA 3.38/4.0)</h3>
+<h3 align="center">CS junior @ Ho Chi Minh City Open University</h3>
 
 <br/>
 
