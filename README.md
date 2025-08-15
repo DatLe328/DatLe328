@@ -35,15 +35,6 @@
 
 ---
 
-## 🏆 Achievements
-- Programming Team — **Vietnam National Olympiad in Informatics** (**2023–2025**)
-- **Third Prize** — Vietnam Olympiad in Informatics (Dec 2023)
-- Participant — **ICPC Vietnam National** (2023–2024)
-- **First Prize** — Competitive Programming Contest, HCM Open University (Dec 2024)
-- **Second Prize** — Faculty-level Olympiad in Informatics, HCM Open University (Dec 2023)
-
----
-
 ## ⚙️ Tech I use
 <div align="left">
   
