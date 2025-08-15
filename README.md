@@ -44,13 +44,6 @@
 
 ---
 
-## 📌 Quick facts
-- CS major who enjoys clean code, fast iteration, and thoughtful UX.
-- Comfortable across the stack; I value testing, readable code, and documentation.
-- Interested in microservices, CI/CD, and mobile with React Native.
-
----
-
 <!-- Optional: GitHub stats (uncomment if you want)
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DatLe328&show_icons=true&theme=default" />
